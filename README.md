@@ -4,10 +4,6 @@
  
  Yahoo!ディベロッパーネットワークのYOLP(地図サービス)の郵便番号APIを叩いて住所を表示する。
  
-# Features
- 
-"hoge"のセールスポイントや差別化などを説明する
- 
 # Requirement
  
 Golang
