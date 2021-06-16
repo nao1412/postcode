@@ -20,6 +20,8 @@ values.Add("query", "049-3514")
  
 Golang
 
+Yahoo! Developer Networkに登録してappID(Client ID)を取得(無料)
+
 # References
  
  http://masa-ichi-181.hatenablog.com/entry/2018/03/21/191923
